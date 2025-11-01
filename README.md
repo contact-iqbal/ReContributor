@@ -1,12 +1,12 @@
-# solid-activity
+# ReContributor
 
-solid-activity dirancang untuk membantu pengguna membuat *commit* otomatis pada GitHub untuk tanggal tertentu di masa lalu.  
+ReContributor dirancang untuk membantu pengguna membuat *commit* otomatis pada GitHub untuk tanggal tertentu di masa lalu.  
 Proyek ini dapat dimanfaatkan untuk mengisi grafik kontribusi (*contribution graph*) atau menciptakan pola visual yang menarik sebagai bentuk personalisasi profil GitHub.
 
 --
 ## Panduan Penggunaan
 
-Ikuti langkah-langkah berikut untuk mengonfigurasi dan menjalankan solid-activity:
+Ikuti langkah-langkah berikut untuk mengonfigurasi dan menjalankan :
 
 ### 1.clone repositori
 ```bash
