@@ -1,0 +1,27 @@
+{
+  "name": "solid-palm-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contact-iqbal/solid-palm-tree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/contact-iqbal/solid-palm-tree/issues"
+  },
+  "homepage": "https://github.com/contact-iqbal/solid-palm-tree#readme",
+  "dependencies": {
+    "jsonfile": "^6.2.0",
+    "moment": "^2.30.1",
+    "random": "^5.4.1",
+    "simple-git": "^3.29.0"
+  }
+}
