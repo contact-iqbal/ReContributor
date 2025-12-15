@@ -10,8 +10,8 @@ Ikuti langkah-langkah berikut untuk mengonfigurasi dan menjalankan :
 
 ### 1.clone repositori
 ```bash
-git clone https://github.com/contact-iqbal/solid-activity.git
-cd solid-activity 
+git clone https://github.com/contact-iqbal/ReContributor.git
+cd ReContributor
 ```
 ### 2.initialization project
 ```bash
