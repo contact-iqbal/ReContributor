@@ -21,6 +21,13 @@ npm init -y
 ```bash
 npm install moment simple-git random
 ```
+### 4. create repository (for pushing)
+create a repository and connect your repository to push ReContributor to github
+
+### 5. run project
+```bash
+node index.js
+```
 
 ### Buat Skrip Commit
 
